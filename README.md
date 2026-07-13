@@ -4,13 +4,12 @@ This project implements a Python-based Customer Support Ticket Analyzer.
 
 It demonstrates: - Data loading &amp; organization using dictionaries and lists  
 
-- Text cleaning (punctuation removal, spacing normalization, lowercasing, slang replacement)
-- 
--   - Keyword-based issue insights (poor, good, slow, excellent)    
+Text cleaning (punctuation removal, spacing normalization, lowercasing, slang replacement)
+ 
+  - Keyword-based issue insights (poor, good, slow, excellent)    
 
-Why This Works
 
-Concise (2–3 sentences) → recruiters and peers can grasp the project quickly.
+
 
 Highlights skills → Python basics, text processing, functions, loops, and data analysis.
 
@@ -31,4 +30,4 @@ It demonstrates:
 - 
 - Extraction of unique words across all tickets  
 
-Deliverables include a Jupyter/Colab notebook with clear outputs and a one-page summary of findings.
+
