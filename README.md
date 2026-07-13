@@ -21,13 +21,13 @@ This project implements a Python-based Customer Support Ticket Analyzer.
 It demonstrates:
 
 - Data loading & organization using dictionaries and lists
-- 
+ 
 - Text cleaning (punctuation removal, spacing normalization, lowercasing, slang replacement)
-- 
+ 
 - Keyword-based issue insights (poor, good, slow, excellent)
-- 
+ 
 - Priority analysis and summary statistics
-- 
+ 
 - Extraction of unique words across all tickets  
 
 
